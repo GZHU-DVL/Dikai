@@ -1,0 +1,10 @@
+# Install the PyTorch build that matches your CUDA driver separately, then install:
+ultralytics
+numpy
+pyyaml
+pandas
+matplotlib
+seaborn
+pillow
+onnx
+onnxruntime
